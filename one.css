@@ -1,0 +1,13 @@
+.mid{
+    border: 10px solid black;
+}
+.navbar,li{
+    display: inline-block;
+}
+
+.navbar li a{
+    padding: 10px;
+}
+form{
+    padding-top: 10px;
+}
